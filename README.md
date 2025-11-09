@@ -7,7 +7,7 @@ This is a full-stack Slack clone example using:
   - [Supabase.js](https://supabase.com/docs/library/getting-started) for user management and realtime data syncing.
 - Backend:
   - [supabase.com/dashboard](https://supabase.com/dashboard/): hosted Postgres database with restful API for usage with Supabase.js.
-
+init deploy
 ## Demo
 
 - CodeSandbox: https://codesandbox.io/s/github/supabase/supabase/tree/master/examples/nextjs-slack-clone
